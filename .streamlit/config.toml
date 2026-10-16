@@ -1,0 +1,14 @@
+[theme]
+base = "dark"
+primaryColor = "#22d3ee"
+backgroundColor = "#070d1f"
+secondaryBackgroundColor = "#0e1a36"
+textColor = "#e6f1ff"
+
+[server]
+# Upload limit in MB (our own validator also enforces 200 KB per file)
+maxUploadSize = 1
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false

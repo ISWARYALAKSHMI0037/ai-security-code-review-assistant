@@ -1,0 +1,4 @@
+streamlit>=1.37,<2
+bandit>=1.7.9,<2
+python-dotenv>=1.0,<2
+requests>=2.31,<3
